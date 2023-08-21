@@ -1,0 +1,13 @@
+prefix=/Users/venky/Desktop/Poject/House Price/venv
+exec_prefix=/Users/venky/Desktop/Poject/House Price/venv
+libdir=/Users/venky/Desktop/Poject/House Price/venv/lib
+sharedlibdir=/Users/venky/Desktop/Poject/House Price/venv/lib
+includedir=/Users/venky/Desktop/Poject/House Price/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
