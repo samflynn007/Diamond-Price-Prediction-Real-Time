@@ -11,4 +11,5 @@ src/logger.py
 src/utils.py
 src/components/__init__.py
 src/components/data_ingestion.py
+src/components/data_transformation.py
 src/pipeline/__init__.py
