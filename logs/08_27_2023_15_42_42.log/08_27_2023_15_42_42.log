@@ -1,0 +1,11 @@
+[ 2023-08-27 15:42:42,649 ] 187 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.29.214:5001
+[ 2023-08-27 15:42:42,649 ] 187 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2023-08-27 15:42:42,650 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2023-08-27 15:42:43,187 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-27 15:42:43,194 ] 187 werkzeug - INFO -  * Debugger PIN: 619-966-135
+[ 2023-08-27 15:42:47,063 ] 187 werkzeug - INFO - 127.0.0.1 - - [27/Aug/2023 15:42:47] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-27 15:43:13,533 ] 67 root - INFO - Dataframe Gathered
+[ 2023-08-27 15:43:13,925 ] 187 werkzeug - INFO - 127.0.0.1 - - [27/Aug/2023 15:43:13] "POST /predict HTTP/1.1" 200 -
